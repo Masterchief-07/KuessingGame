@@ -1,0 +1,2 @@
+jojo_5_1_Difficulties(1, 10)
+jojo_34_9_Difficulties(1, 100)
